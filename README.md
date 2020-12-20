@@ -79,3 +79,14 @@ WEBHOOK_ID = None  # if not specified mmpy_bot will attempt to create one
 @yourbotname !vt https://suspiciouslink.com/
 ```
 
+### Planned Additions ###
+```shell
+passivetotal
+ThreatConnect
+```
+
+### Potential Additions ###
+```shell
+dnsdumpster
+proofpoint
+```
