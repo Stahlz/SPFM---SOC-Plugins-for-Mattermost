@@ -1,30 +1,4 @@
-#SOC Plugins for mmpy_bot Mattermost bot
-
 **Virustotal API has a Private and Public offering, unless you have an private API key, not everything here will be shown in the results if available for a certian hash, url, or domain.**
-
-**Info on mmpy_bot**
-
-[mmpy_bot - Read the Docs](https://mmpy-bot.readthedocs.io/en/latest/)
-
-**install**
-
-```shell
-pip3 install -r requirements.txt 
-```
-
-**Place plugins, including config.py inside the plugins folder**
-
-I would remove all other plugins from this folder if you don't need them.
-
-```shell
-site-packages/mmpy_bot
-               |--plugins <------Put Contents of this Repo into the Plugins folder
-                  |---- urlscan.py
-                  |---- virustotal.py
-                  |---- config.py
-```
-
-**Virustotal API has a Private and Public offering, unless you have an private API key, not everything here will be shown in the results if available for a certian hash,url,or domain.**
 
 **Info on mmpy_bot**
 
