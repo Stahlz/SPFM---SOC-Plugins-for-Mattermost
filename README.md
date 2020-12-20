@@ -1,8 +1,6 @@
 # SPFM - SOC-Plugins-for-Mattermost #
 
-<a class="github-button" href="https://github.com/Stahlz" data-color-scheme="no-preference: light; light: light; dark: light;" aria-label="Follow @Stahlz on GitHub">Follow @Stahlz</a>
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<github-button href="https://github.com/Stahlz" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="Follow @Stahlz on GitHub">Follow @Stahlz</github-button>
 
 ![alt text](https://i.imgur.com/vRpg5gK.gif)
 
