@@ -1,5 +1,9 @@
 # SPFM - SOC-Plugins-for-Mattermost #
+
 <a class="github-button" href="https://github.com/Stahlz" data-color-scheme="no-preference: light; light: light; dark: light;" aria-label="Follow @Stahlz on GitHub">Follow @Stahlz</a>
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 ![alt text](https://i.imgur.com/vRpg5gK.gif)
 
 **Virustotal API has a Private and Public offering, unless you have an private API key, not everything here will be shown in the results if available for a certian hash, url, or domain.**
