@@ -101,4 +101,4 @@ proofpoint
 * **Joshua Whitaker** 
 * *Twitter* [@_Stahlz](https://twitter.com/_Stahlz)
 * *Email* - [stahl@stahl.io](stahl@stahl.io)
-* *Website* - [stahl.io](http://stahl.io)
+* *Website* - [non-attributional.blog](https://non-attributional.blog/)
