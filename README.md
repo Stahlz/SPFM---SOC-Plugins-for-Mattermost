@@ -1,6 +1,6 @@
 # SPFM - SOC-Plugins-for-Mattermost #
 
-<github-button href="https://github.com/Stahlz" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" aria-label="Follow @Stahlz on GitHub">Follow @Stahlz</github-button>
+![alt text](https://img.shields.io/badge/license-MIT-green)
 
 ![alt text](https://i.imgur.com/vRpg5gK.gif)
 
