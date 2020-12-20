@@ -1,6 +1,5 @@
 # SPFM - SOC-Plugins-for-Mattermost #
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-
+<a class="github-button" href="https://github.com/Stahlz" data-color-scheme="no-preference: light; light: light; dark: light;" aria-label="Follow @Stahlz on GitHub">Follow @Stahlz</a>
 ![alt text](https://i.imgur.com/vRpg5gK.gif)
 
 **Virustotal API has a Private and Public offering, unless you have an private API key, not everything here will be shown in the results if available for a certian hash, url, or domain.**
