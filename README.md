@@ -2,9 +2,13 @@
 
 **Virustotal API has a Private and Public offering, unless you have an private API key, not everything here will be shown in the results if available for a certian hash, url, or domain.**
 
+
+
 **Info on mmpy_bot**
 
 [mmpy_bot - Read the Docs](https://mmpy-bot.readthedocs.io/en/latest/)
+
+
 
 **install**
 
@@ -24,6 +28,7 @@ site-packages/mmpy_bot
                   |---- config.py
 ```
 
+
 **Add your API keys to the config.py**
 
 **Example**
@@ -38,7 +43,10 @@ API_KEY = '4779bcd1-52d3-425c-8d5b-d2d63155ccdd'
 proxy = '10.10.100.10:8080'
 ```
 
+
+
 **Add your bots login information to the settings.py**
+
 ```shell
 site-packages/mmpy_bot/settings.py
 ```
@@ -54,9 +62,18 @@ SSL_VERIFY = False
 WS_ORIGIN = None
 WEBHOOK_ID = None  # if not specified mmpy_bot will attempt to create one
 ```
+
+
 **Virustotal Usage**
 ```shell
 @yourbotname !vt c7d9f5c981c6194badfc5a9389ecb21f33058c95b01dab9732e88ea0b3426a29
-@yourbotname !vt 
-
+@yourbotname !vt https://google.com
+@yourbotname !vt https://yourmalwarec2/somefolder/exfil
 ```
+
+
+**UrlScan Usage**
+```shell
+@yourbotname !vt https://suspiciouslink.com/
+```
+
