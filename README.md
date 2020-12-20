@@ -2,6 +2,7 @@
 
 ![alt text](https://img.shields.io/badge/license-MIT-green)
 ![alt text](https://img.shields.io/badge/python-v3.7-blue)
+![alt text](https://img.shields.io/github/followers/Stahlz?style=social)
 
 ![alt text](https://i.imgur.com/vRpg5gK.gif)
 
