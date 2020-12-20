@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/vRpg5gK.gif)
+
 **Virustotal API has a Private and Public offering, unless you have an private API key, not everything here will be shown in the results if available for a certian hash, url, or domain.**
 
 **Info on mmpy_bot**
@@ -51,4 +53,10 @@ BOT_TEAM = 'TeamNameToJoin
 SSL_VERIFY = False
 WS_ORIGIN = None
 WEBHOOK_ID = None  # if not specified mmpy_bot will attempt to create one
+```
+**Virustotal Usage**
+```shell
+@yourbotname !vt c7d9f5c981c6194badfc5a9389ecb21f33058c95b01dab9732e88ea0b3426a29
+@yourbotname !vt 
+
 ```
