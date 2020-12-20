@@ -1,0 +1,11 @@
+[virustotal]
+API_KEY = ''
+
+[urlscan]
+API_KEY = ''
+
+#Examples: 
+#socks5://x.x.x.x:9050
+#http://username:password@x.x.x.x:8080
+[proxy_address]
+proxy = ''
