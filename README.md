@@ -80,7 +80,7 @@ WEBHOOK_ID = None  # if not specified mmpy_bot will attempt to create one
 
 **URLScan Usage**
 ```shell
-@yourbotname !vt https://suspiciouslink.com/
+@yourbotname !urlscan https://suspiciouslink.com/
 ```
 
 ### Planned Additions ###
