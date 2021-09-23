@@ -19,7 +19,7 @@ Pygments>=2.0
 sphinxcontrib-applehelp
 sphinxcontrib-serializinghtml
 chardet<4,>=3.0.2
-urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1
+urllib3<1.26
 certifi>=2017.4.17
 idna<3,>=2.5
 pytz>=2015.7
